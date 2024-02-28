@@ -1,4 +1,4 @@
-#Sales Data Analysis Year 2023-24 
+#Sales Data Analysis Year 2022-23 
 Sales Data Analysis Project with Power BI
 Overview
 This repository contains a sales data analysis project utilizing Power BI. The project aims to analyze sales data to derive insights and make informed business decisions.
